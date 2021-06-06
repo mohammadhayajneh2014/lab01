@@ -11,7 +11,7 @@ return(
     <Header />
     <Main />
     <Footer />
-<h3>hello</h3>    
+  
   </div>
 )
 }

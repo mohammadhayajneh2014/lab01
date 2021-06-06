@@ -11,8 +11,30 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.hedar{
+  text-align: center;
+  
+}
+
+
 .minMain{
   background-color: whitesmoke;
   font-family: 'Times New Roman', Times, serif;
   color: black;
+
+}
+
+.footer{
+  text-align: center;
+}
+.Honer{
+  
+  width: 100%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.Honer img{
+  border: 1px solid black;
+  width: 50%;
 }
